@@ -1,0 +1,34 @@
+{
+  "name": "c-teserract-backend",
+  "version": "1.0.0",
+  "description": "project core code",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseMiguel22/c-tesseract-backend.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript",
+    "SQLite"
+  ],
+  "author": "JoseMiguel22",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseMiguel22/c-tesseract-backend/issues"
+  },
+  "homepage": "https://github.com/JoseMiguel22/c-tesseract-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.2"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
