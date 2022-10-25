@@ -32,7 +32,6 @@
 
 
 - Each to-do element should have this characteristics:
-  - Date of creation
   - Date of edit (if it was the case)
   - Title
   - Description
