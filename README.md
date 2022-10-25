@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Project features</h1>
-<p>The project consists of making a web to-do application, this web application must have the following characteristics:</p>
+<p>The project consists of making the Back-End of a web to-do application, this web application must have the following characteristics:</p>
 
 <h3>Ability to create a new to-do element</h3> 
 
